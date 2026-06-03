@@ -78,7 +78,7 @@ export default function Page() {
 <br/>
       <p>
         If something here resonates, or you want to think out loud about
-        something — <a href="mailto:me@codewdhruv.com">write to me</a>.
+        something — <a href="mailto:dhruvvjyoti@gmail.com">write to me</a>.
       </p>
 
       <p style={{ marginTop: '2em', fontSize: '14px', color: '#666' }}>
