@@ -1,0 +1,17 @@
+{
+  "app/page.tsx": {
+    "conversations": [
+      {
+        "contributor": {
+          "type": "human"
+        },
+        "ranges": [
+          {
+            "start_line": 1,
+            "end_line": 107
+          }
+        ]
+      }
+    ]
+  }
+}

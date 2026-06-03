@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://codewdhruv.com/sitemap.xml
+
+# Important pages for sitelinks
+Allow: /work
+Allow: /blog
+Allow: /research
+Allow: /uses
+Allow: /guestbook 
